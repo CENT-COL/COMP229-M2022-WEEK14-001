@@ -7,6 +7,8 @@ export class MyClass {
      * @param myParam Parameter for this method
      */
     MyMthod(myParam) {
+        //TODO stuff
+        //FIXME stuff
         let myVar = 123;
         
         //* This is highlighted
